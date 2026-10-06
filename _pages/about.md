@@ -36,9 +36,6 @@ I am a first-year Ph.D. candidate at the **HKUST NLP Group**, Hong Kong Universi
 
 - Natural Language Processing
 - Machine Learning
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM Truthfulness and Interpretability
 
 ## Honors & Awards
 
